@@ -1,4 +1,4 @@
-#  Churn Prediction using Ensemble Learning
+#  Aimerz Assignment-Churn Prediction using Ensemble Learning
 
 This project focuses on building a machine learning model to predict customer churn using ensemble techniques such as Random Forest, XGBoost, and LightGBM. It demonstrates key ML concepts like handling imbalanced data, performing feature engineering, and using boosting algorithms for better accuracy.
 
@@ -33,7 +33,7 @@ This project focuses on building a machine learning model to predict customer ch
 ---
 
 ##  Tech Used
-- Pytho 🐍
+- Python
 - Pandas & NumPy
 - Seaborn & Matplotlib
 - Scikit-learn
